@@ -5,7 +5,7 @@ import Graficos from './Graficos';
 
 export default () => 
 <BrowserRouter>
-    <Switch>
+    {/* <Switch> */}
         <Route path="/" exact component={Graficos} />
-    </Switch>
+    {/* </Switch> */}
 </BrowserRouter>
