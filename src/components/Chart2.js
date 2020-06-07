@@ -81,7 +81,7 @@ export default ({ values }) => {
                 maintainAspectRatio: false,
                 title: {
                     display: true,
-                    text: 'SSC Auditoria',
+                    text: 'Bar with Line',
                     fontSize: 25
                 },
                 scales: {

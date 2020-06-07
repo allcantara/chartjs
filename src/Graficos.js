@@ -23,7 +23,7 @@ export default () => {
   const randomLine = () => {
     let arr = new Uint32Array(6);
     arr.map((_, i) => {
-        arr[i] = Math.random(10) * 32;
+      arr[i] = Math.random(10) * 32;
     })
     setValues(arr);
   }
@@ -34,8 +34,7 @@ export default () => {
     <div className="container">
       <div className="row text-center mt-5">
         <div className="col-12">
-        <button className="btn btn-info text-bold" onClick={randomLine}>Gerar novos valores</button>
-        <Link to="/" className="btn btn-secondary ml-3">Voltar</Link>
+          <button className="btn btn-info text-bold" onClick={randomLine}>Gerar novos valores</button>
         </div>
       </div>
       <div className="row">

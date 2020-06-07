@@ -46,7 +46,7 @@ export default ({ values }) => {
                 maintainAspectRatio: false,
                 title: {
                     display: true,
-                    text: 'SSC Auditoria',
+                    text: 'Pie',
                     fontSize: 25
                 },
             }}

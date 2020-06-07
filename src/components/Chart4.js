@@ -66,6 +66,7 @@ export default ({ values }) => {
                 }
             ],
         })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [values]);
 
 
@@ -79,7 +80,7 @@ export default ({ values }) => {
                 maintainAspectRatio: false,
                 title: {
                     display: true,
-                    text: 'SSC Auditoria',
+                    text: 'Radar',
                     fontSize: 25
                 }
             }}
