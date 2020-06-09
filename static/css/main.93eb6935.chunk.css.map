@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACI,kBACJ,CAEA,OACI,eAAgB,CAChB,QAAS,CACT,iBAAkB,CAClB,qCACJ","file":"main.93eb6935.chunk.css","sourcesContent":["html, body {\n    background: #efeff5;\n}\n\ncanvas {\n    background: #fff;\n    border: 0;\n    border-radius: 5px;\n    box-shadow: 0 0 14px 0 rgba(0, 0, 0, .05);\n}"]}
