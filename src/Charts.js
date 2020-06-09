@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
 
 import Chart1 from './components/Chart';
 import Chart2 from './components/Chart2';

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './App.css';
-import Routes from './routes';
+import Charts from './Charts'
 
-export default () => <Routes />
+export default () => <Charts />
 
